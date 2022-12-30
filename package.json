@@ -28,7 +28,7 @@
     "grunt": "^1.0.2",
     "grunt-prettier": "^2.1.0",
     "husky": "^4.2.5",
-    "mocha": "^7.1.2",
+    "mocha": "^10.2.0",
     "require-directory": "^2.1.1",
     "rollup": "^2.10.2",
     "rollup-plugin-babel": "^4.4.0",
